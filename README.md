@@ -1,1 +1,2 @@
-JavaScript勉強中
+Studying JavaScript
+
